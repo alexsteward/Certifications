@@ -5,6 +5,7 @@ This repo highlights certifications I’ve studied for and passed **outside of s
 ---
 
 ### **1️⃣ CompTIA**
+✅ ITF+
 ✅ A+  
 ✅ Network+  
 ✅ Security+  
